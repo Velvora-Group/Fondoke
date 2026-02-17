@@ -22,25 +22,25 @@ This PRD is organized into 13 comprehensive sections. Click any section below to
 
 ### Core Strategy & Users
 
-#### [1. Executive Summary](docs/01-executive-summary.md)
+#### [1. Executive Summary](docs/user-portal/01-executive-summary.md)
 
 Overview of Fondoke's vision, purpose, and value proposition for the hotel booking and resale marketplace.
 
-#### [2. Business Goals](docs/02-business-goals.md)
+#### [2. Business Goals](docs/user-portal/02-business-goals.md)
 
 Primary business objectives, success metrics, and Year 1 targets including user acquisition, transaction volume, and revenue goals.
 
-#### [3. Target Users](docs/03-target-users.md)
+#### [3. Target Users](docs/user-portal/03-target-users.md)
 
 Detailed personas including Flexible Travelers, Budget-Conscious Travelers, Business Travelers, and Hotel Investors/Traders.
 
 ### Product Design & Features
 
-#### [4. User Flows](docs/04-user-flows.md)
+#### [4. User Flows](docs/user-portal/04-user-flows.md)
 
 Complete user journeys covering booking, selling, buying, cancellation, bulk operations, comparison, favorites, price alerts, and map-based search.
 
-#### [5. Feature List](docs/05-feature-list.md)
+#### [5. Feature List](docs/user-portal/05-feature-list.md)
 
 Comprehensive feature specifications including:
 
@@ -62,39 +62,39 @@ Comprehensive feature specifications including:
 
 ### Business Rules & Acceptance
 
-#### [6. Business Rules](docs/06-business-rules.md)
+#### [6. Business Rules](docs/user-portal/06-business-rules.md)
 
 Operational rules covering booking, trading marketplace, cancellations, user accounts, reviews, currency, data privacy, disputes, and company admin operations.
 
-#### [7. Acceptance Criteria](docs/07-acceptance-criteria.md)
+#### [7. Acceptance Criteria](docs/user-portal/07-acceptance-criteria.md)
 
 Detailed acceptance criteria for all features including authentication, search, booking, trading, payments, dashboards, performance, security, and privacy compliance.
 
 ### Technical & Planning
 
-#### [8. Technical Architecture](docs/08-technical-architecture.md)
+#### [8. Technical Architecture](docs/user-portal/08-technical-architecture.md)
 
 Technology stack overview including AWS serverless backend, React frontend, and third-party integrations.
 
-#### [9. Success Criteria](docs/09-success-criteria.md)
+#### [9. Success Criteria](docs/user-portal/09-success-criteria.md)
 
 Launch readiness checklist, quality metrics, and business metrics for measuring platform success.
 
-#### [10. Risk Assessment](docs/10-risk-assessment.md)
+#### [10. Risk Assessment](docs/user-portal/10-risk-assessment.md)
 
 Technical, business, and legal risks with mitigation strategies.
 
-#### [11. Future Roadmap](docs/11-future-roadmap.md)
+#### [11. Future Roadmap](docs/user-portal/11-future-roadmap.md)
 
 Product roadmap across 4 phases from MVP launch through innovation features.
 
 ### Reference
 
-#### [12. Glossary](docs/12-glossary.md)
+#### [12. Glossary](docs/user-portal/12-glossary.md)
 
 Definitions of key terms and concepts used throughout the platform.
 
-#### [13. Appendix](docs/13-appendix.md)
+#### [13. Appendix](docs/user-portal/13-appendix.md)
 
 Wireframe references, API endpoints, database schema, compliance requirements, and contact information.
 
@@ -104,27 +104,27 @@ Wireframe references, API endpoints, database schema, compliance requirements, a
 
 **For Product Team:**
 
-- Start with [Business Goals](docs/02-business-goals.md) and [Target Users](docs/03-target-users.md)
-- Review [User Flows](docs/04-user-flows.md) for journey mapping
-- Deep dive into [Feature List](docs/05-feature-list.md) for detailed specifications
+- Start with [Business Goals](docs/user-portal/02-business-goals.md) and [Target Users](docs/user-portal/03-target-users.md)
+- Review [User Flows](docs/user-portal/04-user-flows.md) for journey mapping
+- Deep dive into [Feature List](docs/user-portal/05-feature-list.md) for detailed specifications
 
 **For Engineering Team:**
 
-- Check [Technical Architecture](docs/08-technical-architecture.md) for stack details
-- Review [Acceptance Criteria](docs/07-acceptance-criteria.md) for implementation requirements
-- Understand [Business Rules](docs/06-business-rules.md) for logic implementation
+- Check [Technical Architecture](docs/user-portal/08-technical-architecture.md) for stack details
+- Review [Acceptance Criteria](docs/user-portal/07-acceptance-criteria.md) for implementation requirements
+- Understand [Business Rules](docs/user-portal/06-business-rules.md) for logic implementation
 
 **For QA Team:**
 
-- Focus on [Acceptance Criteria](docs/07-acceptance-criteria.md) for test cases
-- Review [Business Rules](docs/06-business-rules.md) for validation scenarios
-- Check [Success Criteria](docs/09-success-criteria.md) for performance benchmarks
+- Focus on [Acceptance Criteria](docs/user-portal/07-acceptance-criteria.md) for test cases
+- Review [Business Rules](docs/user-portal/06-business-rules.md) for validation scenarios
+- Check [Success Criteria](docs/user-portal/09-success-criteria.md) for performance benchmarks
 
 **For Stakeholders:**
 
-- Start with [Executive Summary](docs/01-executive-summary.md)
-- Review [Business Goals](docs/02-business-goals.md) and [Success Criteria](docs/09-success-criteria.md)
-- Explore [Risk Assessment](docs/10-risk-assessment.md) and [Future Roadmap](docs/11-future-roadmap.md)
+- Start with [Executive Summary](docs/user-portal/01-executive-summary.md)
+- Review [Business Goals](docs/user-portal/02-business-goals.md) and [Success Criteria](docs/user-portal/09-success-criteria.md)
+- Explore [Risk Assessment](docs/user-portal/10-risk-assessment.md) and [Future Roadmap](docs/user-portal/11-future-roadmap.md)
 
 ---
 
@@ -165,6 +165,6 @@ Wireframe references, API endpoints, database schema, compliance requirements, a
 
 ## ✅ Approval Signatures
 
-- Product Owner: ********\_******** Date: **\_\_\_**
-- Engineering Lead: ********\_******** Date: **\_\_\_**
-- Business Owner: ********\_******** Date: **\_\_\_**
+- Product Owner: **\*\*\*\***\_**\*\*\*\*** Date: **\_\_\_**
+- Engineering Lead: **\*\*\*\***\_**\*\*\*\*** Date: **\_\_\_**
+- Business Owner: **\*\*\*\***\_**\*\*\*\*** Date: **\_\_\_**

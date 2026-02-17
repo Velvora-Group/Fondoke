@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Last Updated:** February 17, 2026
 
-[← Back to Main Document](../FONDOKE_USERPORTAL_PRD.md)
+[← Back to Main Document](../../FONDOKE_USERPORTAL_PRD.md)
 
 ---
 
@@ -1003,4 +1003,4 @@
 
 ---
 
-[← Back to Main Document](../FONDOKE_USERPORTAL_PRD.md)
+[← Back to Main Document](../../FONDOKE_USERPORTAL_PRD.md)

@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Last Updated:** February 17, 2026
 
-[← Back to Main Document](../FONDOKE_USERPORTAL_PRD.md)
+[← Back to Main Document](../../FONDOKE_USERPORTAL_PRD.md)
 
 ---
 
@@ -12,4 +12,4 @@ Fondoke is a revolutionary hotel booking and reselling platform that enables use
 
 ---
 
-[← Back to Main Document](../FONDOKE_USERPORTAL_PRD.md)
+[← Back to Main Document](../../FONDOKE_USERPORTAL_PRD.md)
